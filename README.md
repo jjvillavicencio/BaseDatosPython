@@ -18,7 +18,7 @@ Es un lenguaje de programación de alto nivel, interpretado y multipropósito. E
 
 Python puede ser utilizado en diversas plataformas y sistemas operativos, entre los que podemos destacar los más populares, cómo Windows, Mac OS X y Linux. Pero, además, Python también puede funcionar en smartphones, Nokia desarrolló un intérprete de esté lenguaje para su sistema operativo Symbian.
 
-**¿Tiene Python un ámbito específico? **Algunos lenguajes de programación sí que lo tienen. Por ejemplo, PHP fue ideado para desarrollar aplicaciones Web. Sin embargo, esté no es el caso de Python. Con este lenguaje podemos desarrollar software para aplicaciones científicas, para comunicaciones de red, para aplicaciones de escritorio con interfaz gráfica de usuario (GUI), para crear juegos, para smartphones y por supuesto, para aplicaciones web.
+**¿Tiene Python un ámbito específico?** Algunos lenguajes de programación sí que lo tienen. Por ejemplo, PHP fue ideado para desarrollar aplicaciones Web. Sin embargo, esté no es el caso de Python. Con este lenguaje podemos desarrollar software para aplicaciones científicas, para comunicaciones de red, para aplicaciones de escritorio con interfaz gráfica de usuario (GUI), para crear juegos, para smartphones y por supuesto, para aplicaciones web.
 
 ## 2. Características del lenguaje
 - Propósito general
