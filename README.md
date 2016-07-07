@@ -6,12 +6,12 @@
 - John Villavicencio
 
 > Indice
-> 1. [¿Qué es Python?](#1.-¿qué-es-python?)
-> 2. [Características del lenguaje](#2.-características-del-lenguaje)
-> 3. [¿Python y bases de datos?](#3.-¿python-y-bases-de-datos?)
-> 4. [Conectividad con MySQL](#4.-conectividad-con-mysql)
-> 5. [Pasos para instalar MySQLbd](#5.-pasos-para-instalar-mysqlbd)
-> 6. [Conexión a Postgres con Python](#6.-conexión-a-postgres-con-python)
+> 1. [¿Qué es Python?](#1-qu%C3%A9-es-python)
+> 2. [Características del lenguaje](#2-caracter%C3%ADsticas-del-lenguaje)
+> 3. [¿Python y bases de datos?](#3-python-y-bases-de-datos)
+> 4. [Conectividad con MySQL](#4-conectividad-con-mysql)
+> 5. [Pasos para instalar MySQLbd](#5-pasos-para-instalar-mysqlbd)
+> 6. [Conexión a Postgres con Python](#6-conexi%C3%B3n-a-postgres-con-python)
 
 ## 1. ¿Qué es Python?
 Es un lenguaje de programación de alto nivel, interpretado y multipropósito. En los últimos años su utilización ha ido constantemente creciendo y en la actualidad es uno de los lenguajes de programación más empleados para el desarrollo de software.
