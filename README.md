@@ -14,6 +14,8 @@
 > 6. [Conexión a Postgres con Python](#6.-conexión-a-postgres-con-python)
 
 ## 1. ¿Qué es Python?
+[[Arriba](#python-conectividad-a-base-de-datos)]
+
 Es un lenguaje de programación de alto nivel, interpretado y multipropósito. En los últimos años su utilización ha ido constantemente creciendo y en la actualidad es uno de los lenguajes de programación más empleados para el desarrollo de software.
 
 Python puede ser utilizado en diversas plataformas y sistemas operativos, entre los que podemos destacar los más populares, cómo Windows, Mac OS X y Linux. Pero, además, Python también puede funcionar en smartphones, Nokia desarrolló un intérprete de esté lenguaje para su sistema operativo Symbian.
@@ -21,6 +23,8 @@ Python puede ser utilizado en diversas plataformas y sistemas operativos, entre 
 **¿Tiene Python un ámbito específico? **Algunos lenguajes de programación sí que lo tienen. Por ejemplo, PHP fue ideado para desarrollar aplicaciones Web. Sin embargo, esté no es el caso de Python. Con este lenguaje podemos desarrollar software para aplicaciones científicas, para comunicaciones de red, para aplicaciones de escritorio con interfaz gráfica de usuario (GUI), para crear juegos, para smartphones y por supuesto, para aplicaciones web.
 
 ## 2. Características del lenguaje
+[[Arriba](#python-conectividad-a-base-de-datos)]
+
 - Propósito general
 - Multiplataforma
 - Interpretado
@@ -29,6 +33,7 @@ Python puede ser utilizado en diversas plataformas y sistemas operativos, entre 
 - Sintaxis clara
 
 ## 3. ¿Python y bases de datos?
+[[Arriba](#python-conectividad-a-base-de-datos)]
 
 El estándar de Python para las interfaces de bases de datos es el Python DB-API. La mayoría de las interfaces de bases de datos de Python se adhieren a este estándar, por lo que dicho API es compatible con una amplia gama de servidores de bases de datos, entre ellos:
 
@@ -42,11 +47,13 @@ El estándar de Python para las interfaces de bases de datos es el Python DB-API
 - Sybase
 
 ## 4. Conectividad con MySQL
+[[Arriba](#python-conectividad-a-base-de-datos)]
 
 Python utiliza una interfaz MySQLdb para la conexión a un servidor de base de datos MySQL.
 Con este API de Python podremos crear tablas, insertar, obtener, modificar y eliminar registros de la base de datos.
 
 ## 5. Pasos para instalar MySQLbd
+[[Arriba](#python-conectividad-a-base-de-datos)]
 
 a) Confirmamos que no tenemos instalado MySQLdb en nuestras máquinas. Creemos un script con lo siguiente y lo ejecutamos:
 
@@ -99,6 +106,7 @@ i) Eliminar datos: La operación eliminar es necesario si desea eliminar uno o v
 ![Imgur](http://i.imgur.com/0PC8kGz.png)
 
 ## 6. Conexión a Postgres con Python
+[[Arriba](#python-conectividad-a-base-de-datos)]
 
 a) Importar librerías
 Importamos las librerías que nos permiten trabajar con postgres.
@@ -121,3 +129,5 @@ Creamos la sentencia para la presentación de las consultas.
 Ejecutamos nuestro script de python en la consola y podremos observar los resultados.
 
 ![Imgur](http://i.imgur.com/Vqc5qv8.png)
+
+[[Arriba](#python-conectividad-a-base-de-datos)]
