@@ -6,12 +6,12 @@
 - John Villavicencio
 
 > Indice
-> 1. [¿Qué es Python?](#1.-¿qué-es-python?)
-> 2. [Características del lenguaje](#2.-características-del-lenguaje)
-> 3. [¿Python y bases de datos?](#3.-¿python-y-bases-de-datos?)
-> 4. [Conectividad con MySQL](#4.-conectividad-con-mysql)
-> 5. [Pasos para instalar MySQLbd](#5.-pasos-para-instalar-mysqlbd)
-> 6. [Conexión a Postgres con Python](#6.-conexión-a-postgres-con-python)
+> 1. [¿Qué es Python?](#1-qu%C3%A9-es-python)
+> 2. [Características del lenguaje](#2-caracter%C3%ADsticas-del-lenguaje)
+> 3. [¿Python y bases de datos?](#3-python-y-bases-de-datos)
+> 4. [Conectividad con MySQL](#4-conectividad-con-mysql)
+> 5. [Pasos para instalar MySQLbd](#5-pasos-para-instalar-mysqlbd)
+> 6. [Conexión a Postgres con Python](#6-conexi%C3%B3n-a-postgres-con-python)
 
 ## 1. ¿Qué es Python?
 [[Arriba](#python-conectividad-a-base-de-datos)]
@@ -20,7 +20,7 @@ Es un lenguaje de programación de alto nivel, interpretado y multipropósito. E
 
 Python puede ser utilizado en diversas plataformas y sistemas operativos, entre los que podemos destacar los más populares, cómo Windows, Mac OS X y Linux. Pero, además, Python también puede funcionar en smartphones, Nokia desarrolló un intérprete de esté lenguaje para su sistema operativo Symbian.
 
-**¿Tiene Python un ámbito específico? **Algunos lenguajes de programación sí que lo tienen. Por ejemplo, PHP fue ideado para desarrollar aplicaciones Web. Sin embargo, esté no es el caso de Python. Con este lenguaje podemos desarrollar software para aplicaciones científicas, para comunicaciones de red, para aplicaciones de escritorio con interfaz gráfica de usuario (GUI), para crear juegos, para smartphones y por supuesto, para aplicaciones web.
+**¿Tiene Python un ámbito específico?** Algunos lenguajes de programación sí que lo tienen. Por ejemplo, PHP fue ideado para desarrollar aplicaciones Web. Sin embargo, esté no es el caso de Python. Con este lenguaje podemos desarrollar software para aplicaciones científicas, para comunicaciones de red, para aplicaciones de escritorio con interfaz gráfica de usuario (GUI), para crear juegos, para smartphones y por supuesto, para aplicaciones web.
 
 ## 2. Características del lenguaje
 [[Arriba](#python-conectividad-a-base-de-datos)]
